@@ -1,0 +1,68 @@
+.card{
+    display: flex;
+    /* padding: 2rem; */
+    margin: 2rem 0;
+
+}
+
+
+
+.card-img{
+    width: 20rem;
+    height: 25rem;
+    object-fit: cover;
+    border-radius: .6rem;
+    -webkit-border-radius: .6rem;
+    -moz-border-radius: .6rem;
+    -ms-border-radius: .6rem;
+    -o-border-radius: .6rem;
+}
+
+.country>i{
+    margin-right: .5rem;
+    color:#F55A5A;
+    font-size: 1.5rem;
+
+
+}
+
+.location{
+    display: flex;
+    font-size: 1.3rem;
+
+}
+.country{
+    text-transform: uppercase;
+    margin-right: 1rem;
+    display: flex;
+    align-items: center;
+    letter-spacing: .2rem;
+}
+
+.map-link{
+    color: #918E9B;
+
+}
+
+.heading{
+    font-size: 2.5rem;
+    margin-bottom: 1.4rem;
+}
+
+.card-details{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    align-self: center;
+}
+
+.dates{
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: .6rem;
+}
+
+.desc{
+    font-size: 1.3rem;
+
+}

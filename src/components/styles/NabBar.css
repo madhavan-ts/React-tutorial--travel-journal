@@ -1,0 +1,22 @@
+.nav{
+    background-color: #F55A5A;
+    font-size: 1.8rem;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.nav-link{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color:white;
+    /* text-transform: uppercase; */
+}
+
+.nav-link>i{
+    margin-right: .8rem;
+    font-size: 2.5rem;
+
+}
