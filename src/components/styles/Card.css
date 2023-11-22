@@ -9,7 +9,7 @@
 
 .card-img{
     width: 20rem;
-    height: 25rem;
+    min-height: 25rem;
     object-fit: cover;
     border-radius: .6rem;
     -webkit-border-radius: .6rem;
